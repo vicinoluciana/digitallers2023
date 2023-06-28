@@ -1,0 +1,63 @@
+body {
+   
+}
+
+/*
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+*/
+body>header {
+    background-color: rgb(19, 19, 19);
+     color: #EFEFEF;
+    margin-top: 0px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+body>header>div {
+    display:inline-block;
+}
+
+header>img {
+    float: left;
+    height: 100px;
+}
+
+.title {
+    font-size: 100px;
+}
+.sub {
+    text-align: center;
+}
+
+
+
+body>header>div {
+    display: inline-block;
+}
+
+aside{
+    position: absolute;
+    top: 0;
+    width: 200px; 
+    right: 10px;
+    z-index: 2;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 15px;
+    padding: 1em;
+}
+
+article>img {
+    width: 100px;
+    heigh: 100px;
+}
+.comentarios {
+    display:;
+}
